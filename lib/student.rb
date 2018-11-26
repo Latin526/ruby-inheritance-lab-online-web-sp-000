@@ -1,3 +1,3 @@
 class Student < TEACHER
- attr_accessor :
+ attr_accessor :knowledge
 end
