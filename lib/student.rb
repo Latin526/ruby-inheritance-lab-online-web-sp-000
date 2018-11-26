@@ -6,5 +6,6 @@ class Student < TEACHER
   end 
   
   def learn(string)
-    knowledge << 
+    knowledge << string 
+  end 
  end 
