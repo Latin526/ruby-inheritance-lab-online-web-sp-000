@@ -1,3 +1,5 @@
 class Student < TEACHER
- attr_accessor :knowledge
+ attr_accessor :knowledge 
+ 
+ def initialize()
 end
