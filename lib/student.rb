@@ -3,6 +3,6 @@ class Student < TEACHER
  
   def initialize
     @knowledge = []
-    
   end 
+  
  end 
