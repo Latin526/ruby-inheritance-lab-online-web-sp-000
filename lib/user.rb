@@ -1,5 +1,5 @@
 class User 
   attr_accessor :first_name, :last_name
   
-  def initialize()
+  def initialize(first_name = nil)
 end 
