@@ -1,4 +1,4 @@
-class Student < TEACHER
+class Student < Teacher
  attr_accessor :knowledge 
  
   def initialize
